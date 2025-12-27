@@ -1,0 +1,11 @@
+# Core Data Science Libraries
+pandas==2.3.3
+numpy==2.2.6
+scipy==1.15.3
+
+# Machine Learning
+scikit-learn==1.7.2
+
+# Visualization
+matplotlib==3.10.8
+seaborn==0.13.2
